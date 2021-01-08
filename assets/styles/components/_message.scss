@@ -1,0 +1,44 @@
+@mixin message($theme) {
+    .w-message {
+        padding: 16px 32px;
+        border-radius: 5px;
+    
+        &.error {
+            background-color: rgb(223, 46, 33);
+            color: white;
+    
+            .text {
+                font-size: 16px;
+            }
+        }
+    
+        &.info {
+            background-color: rgb(74, 86, 195);
+            color: white;
+    
+            .text {
+                font-size: 14px;
+            }
+        }
+    
+        &.success {
+            background-color: rgb(98, 170, 15);
+            color: white;
+    
+            .text {
+                font-size: 16px;
+            }
+        }
+    
+        &.warning {
+            background-color: rgb(250, 208, 83);
+            color: black;
+    
+            .text {
+                font-size: 16px;
+            }
+        }
+    
+    
+    }
+}

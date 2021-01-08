@@ -1,0 +1,21 @@
+@mixin uploader($theme) {
+    .w-uploader {
+        .w-uploader-dropzone {
+            border: dotted 2px darken(map-get($theme, cardDackgroundColor), 20);
+            background: darken(map-get($theme, cardDackgroundColor), 0);
+            border-radius: 30px;
+            padding: 32px 16px;
+
+            &.ngx-file-drop__drop-zone--over {
+                border: dotted 2px map-get($theme, primaryColor);
+                background: darken(map-get($theme, cardDackgroundColor), 5);
+            }
+        }
+
+        .w-uploader-content {
+            font-weight: 300;
+            font-size: 18px;
+            color: map-get($theme, primaryColor);
+        }
+    }
+}

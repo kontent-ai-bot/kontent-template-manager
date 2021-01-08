@@ -1,0 +1,23 @@
+@mixin preview-data($theme) {
+
+    $color: #fff;
+
+    .w-inactive-item {
+        background-color: darken($color, 10);
+        color: black;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+    .w-active-item {
+        background-color: darken($color, 30);
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+    .w-preview-link {
+        color: map-get($theme, primaryColor);
+        cursor: pointer;
+        font-weight: 400;
+    }
+}

@@ -1,0 +1,8 @@
+@mixin card($theme) {
+    .w-card {
+        border-radius: 5px;
+        box-shadow: rgb(221, 229, 234) 0px 2px 15px;
+        background-color: map-get($theme, cardDackgroundColor);
+        color: inherit;
+    }
+}

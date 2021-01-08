@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Multiverse",
+        "description": "Multiverse by HTML5UP.net",
+        "repoUrl": "https://github.com/ondrabus/kc-template-multiverse",
+        "exportPackageUrl": "/assets/templates/packages/kc-template-multiverse-master.zip",
+        "imageUrl": "https://raw.githubusercontent.com/ondrabus/kc-template-multiverse/master/template.jpg",
+        "author": {
+            "name": "ondrabus",
+            "email": "ondrejp@kentico.com"
+        },
+        "lastUpdate": "2019-05-16T15:53:00.000Z",
+        "forVersion": "0.0.3",
+        "technology": "Vue.js"
+    },
+    {
+        "name": "Grayscale",
+        "description": "Grayscale by Start Bootstrap",
+        "repoUrl": "https://github.com/ondrabus/kc-template-grayscale",
+        "exportPackageUrl": "/assets/templates/packages/kc-template-grayscale-master.zip",
+        "imageUrl": "https://raw.githubusercontent.com/ondrabus/kc-template-grayscale/master/template.jpg",
+        "author": {
+            "name": "ondrabus",
+            "email": "ondrejp@kentico.com"
+        },
+        "lastUpdate": "2019-05-16T16:03:00.000Z",
+        "forVersion": "0.0.3",
+        "technology": "Vue.js"
+    },
+    {
+        "name": "GatsbyJs Photon",
+        "description": "Kentico Kontent & GatsbyJs template based on Photon",
+        "repoUrl": "https://github.com/Simply007/kontent-template-gatsby-landing-page-photon",
+        "exportPackageUrl": "/assets/templates/packages/gatsby-starter-kontent-master.zip",
+        "imageUrl": "https://raw.githubusercontent.com/Simply007/kontent-template-gatsby-landing-page-photon/master/template.jpg",
+        "author": {
+            "name": "Ondřej Chrastina",
+            "email": "ondrej.chrastina@kentico.com"
+        },
+        "lastUpdate": "2019-11-04T16:00:00.000Z",
+        "forVersion": "1.0.0",
+        "technology": "GatsbyJs"
+    },
+    {
+        "name": "ASP.NET Core MVC",
+        "description": "Kentico Kontent web template built with ASP.NET Core MVC",
+        "repoUrl": "https://github.com/Simply007/cloud-template-dotnet-core",
+        "exportPackageUrl": "/assets/templates/packages/cloud-template-dotnet-core-master.zip",
+        "imageUrl": "https://raw.githubusercontent.com/Simply007/cloud-template-dotnet-core/master/template.jpg",
+        "author": {
+            "name": "Ondřej Chrastina",
+            "email": "ondrej.chrastina@kentico.com"
+        },
+        "lastUpdate": "2019-06-11T16:00:00.000Z",
+        "forVersion": "1.0.0",
+        "technology": ".NET Core MVC"
+    },
+    {
+        "name": "Freelancer",
+        "description": "Start Bootstrap Freelancer template based on ASP.NET Core Blazor",
+        "repoUrl": "https://github.com/petrsvihlik/StartBootstrap.Freelancer.Blazor",
+        "exportPackageUrl": "/assets/templates/packages/StartBootstrap.Freelancer.Blazor-master.zip",
+        "imageUrl": "https://repository-images.githubusercontent.com/194238112/db381080-9b34-11e9-961a-89b79eaeb650",
+        "author": {
+            "name": "Petr Švihlík",
+            "email": "petr.svihlik@kentico.com"
+        },
+        "lastUpdate": "2019-06-30T16:00:00.000Z",
+        "forVersion": "0.0.8",
+        "technology": "ASP.NET Core Blazor"
+    },  
+    {
+        "name": "Statiq Starter Kontent Lumen",
+        "description": "Lumen is a lightweight starter for creating blogs using Statiq and Kentico Kontent.",
+        "repoUrl": "https://github.com/petrsvihlik/statiq-starter-kontent-lumen",
+        "exportPackageUrl": "/assets/templates/packages/statiq-starter-kontent-lumen.zip",
+        "imageUrl": "https://i.imgur.com/vLBpkl6.png",
+        "author": {
+            "name": "Petr Švihlík",
+            "email": "petr.svihlik@kentico.com"
+        },
+        "lastUpdate": "2020-10-20T16:00:00.000Z",
+        "forVersion": "1.6.0",
+        "technology": "Statiq"
+    },
+    {
+        "name": "Nerd Cafe",
+        "description": "Kentico Kontent web template built with Svelte and Sapper",
+        "repoUrl": "https://github.com/Simply007/kontent-sample-app-svelte-sapper",
+        "exportPackageUrl": "/assets/templates/packages/kontent-sample-app-svelte-sapper-master.zip",
+        "imageUrl": "https://raw.githubusercontent.com/Simply007/kontent-sample-app-svelte-sapper/master/template.jpg",
+        "author": {
+            "name": "Ondřej Chrastina",
+            "email": "ondrej.chrastina@kentico.com"
+        },
+        "lastUpdate": "2019-11-22T14:00:00.000Z",
+        "forVersion": "1.0.0",
+        "technology": "Svelte & Sapper"
+    },
+    {
+        "name": "GatsbyJs Lumen",
+        "description": "Kentico Kontent & GatsbyJs template based on Lumen",
+        "repoUrl": "https://github.com/Kentico/gatsby-starter-kontent-lumen",
+        "exportPackageUrl": "/assets/templates/packages/gatsby-starter-kontent-lumen-master.zip",
+        "imageUrl": "https://camo.githubusercontent.com/9e7bbeb7cfd30f29cf4285e8866ae1277d01314f/68747470733a2f2f692e696d6775722e636f6d2f6a56496d7154322e6a7067",
+        "author": {
+            "name": "Martin Makarský",
+            "email": "martinm@kentico.com"
+        },
+        "lastUpdate": "2020-04-06T16:00:00.000Z",
+        "forVersion": "1.0.0",
+        "technology": "GatsbyJs"
+    },
+    {
+        "name": "Gatsby default starter",
+        "description": "Kentico Kontent & GatsbyJs simple starter.",
+        "repoUrl": "https://github.com/Kentico/gatsby-starter-kontent",
+        "exportPackageUrl": "/assets/templates/packages/gatsby-starter-kontent-master.zip",
+        "imageUrl": "https://raw.githubusercontent.com/Kentico/gatsby-starter-kontent/master/template.jpg",
+        "author": {
+            "name": "Ondřej Chrastina",
+            "email": "ondrej.chrastina@kentico.com"
+        },
+        "lastUpdate": "2020-05-13T09:13:05.794Z",
+        "forVersion": "1.0.0",
+        "technology": "GatsbyJs"
+    },
+    {
+        "name": "Travel Blog",
+        "description": "A sample travel blog built with VueJS and Kentico Kontent.",
+        "repoUrl": "https://github.com/Kentico/kontent-sample-blog-travel-vue",
+        "exportPackageUrl": "/assets/templates/packages/kontent-sample-blog-travel-vue-master.zip",
+        "imageUrl": "https://raw.githubusercontent.com/Kentico/kontent-sample-blog-travel-vue/master/template.jpg",
+        "author": {
+            "name": "Christopher Jennings",
+            "email": "devrel@kentico.com"
+        },
+        "lastUpdate": "2020-06-03T15:05:19.733Z",
+        "forVersion": "1.4.0",
+        "technology": "Vue.js"
+    },
+    {
+        "name": "GatsbyJs Material UI template",
+        "description": "Showcase of Kentico Kontent Intranet admin UI using Material design and Gatsby.",
+        "repoUrl": "https://github.com/Simply007/kontent-sample-app-gatsby-intranet",
+        "exportPackageUrl": "/assets/templates/packages/kontent-sample-app-gatsby-intranet-master.zip",
+        "imageUrl": "https://raw.githubusercontent.com/Simply007/kontent-sample-app-gatsby-intranet/master/template.jpg",
+        "author": {
+            "name": "Ondřej Chrastina",
+            "email": "ondrej.chrastina@kentico.com"
+        },
+        "lastUpdate": "2020-06-15T08:56:00.734Z",
+        "forVersion": "1.4.0",
+        "technology": "GatsbyJs"
+    },
+    {
+        "name": "Memoirs",
+        "description": "A complete template for blogging and pages with Kontent and Statiq",
+        "repoUrl": "https://github.com/alanta/memoirs-theme",
+        "exportPackageUrl": "/assets/templates/packages/memoirs-kontent-statiq.zip",
+        "imageUrl": "https://github.com/alanta/memoirs-theme/raw/main/template.jpg",
+        "author": {
+            "name": "Marnix van Valen",
+            "email": "marnix@alanta.nl"
+        },
+        "lastUpdate": "2020-11-25T15:00:00.000Z",
+        "forVersion": "1.6.0",
+        "technology": "Statiq"
+    }
+]

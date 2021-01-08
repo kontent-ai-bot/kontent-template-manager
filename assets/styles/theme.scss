@@ -1,0 +1,22 @@
+@import '~@angular/material/theming';
+
+// site theme
+@import './site-theme.scss';
+
+// themes
+@import './default-theme.scss';
+
+$custom-typography: mat-typography-config(
+    $font-family: "'Roboto', sans-serif",
+    $subheading-2: mat-typography-level(20px, 20px, 700),
+    $subheading-1: mat-typography-level(18px, 18px, 700),
+    );
+
+// Include the common styles for Angular Material. We include this here so that you only
+// have to load a single css file for Angular Material in your app.
+// Be sure that you only ever include this mixin once!
+@include mat-core($custom-typography);
+
+.w-default-theme {
+    @include default-theme();
+}

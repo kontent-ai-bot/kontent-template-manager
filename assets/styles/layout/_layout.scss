@@ -1,0 +1,102 @@
+@mixin layout($theme) {
+
+
+    /**
+    Background is set on the <body> tag, but it also has to be here so that it overrides default color of sidenav
+    */
+    .w-layout-background,
+    .mat-drawer-container {
+        background-color: unset !important;
+    }
+
+    .w-layout-fixed-toolbar {
+        height: 64px;
+        z-index: 2;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        background-color: map-get($theme, headeBackgroundColor);
+        background: map-get($theme, headerBackground);
+        color: map-get($theme, headerTextColor);
+
+        a {
+            color: map-get($theme, headerTextColor);
+            text-decoration: none;
+            font-size: 20px;
+
+            &:hover {
+                color: map-get($theme, headerTextColor);
+            }
+        }
+
+        .mat-button-wrapper {
+            font-size: 14px;
+        }
+    }
+
+    .w-layout-container-push {
+        margin-top: 64px;
+    }
+
+    .w-layout-subheader {
+        background-color: darken(map-get($theme, backgroundColor), 5);
+        font-size: 24px;
+        font-weight: 300;
+        padding: 24px 32px;
+    }
+
+    .w-layout-side-menu {
+        background-color: map-get($theme, sideBackgroundColor);
+        border: solid 1px darken(map-get($theme, sideBackgroundColor), 5);
+
+        .w-layout-side-item {
+            display: block;
+            text-decoration: none;
+            color: map-get($theme, sideTextColor);
+            font-size: 13px;
+            font-weight: 400;
+            padding: 16px 64px 16px 48px;
+            cursor: pointer;
+
+            .mat-icon {
+                color: lighten(map-get($theme, sideTextColor), 15);
+            }
+
+            &:hover {
+                color: map-get($theme, sideTextColor);
+                background: darken(map-get($theme, sideBackgroundColor), 9);
+
+                mat-icon {
+                    color: map-get($theme, sideTextColor);
+                }
+            }
+
+            &.active {
+                color: map-get($theme, sideTextColor);
+                background: darken(map-get($theme, sideBackgroundColor), 7);
+
+                mat-icon {
+                    color: map-get($theme, sideTextColor);
+                }
+            }
+        }
+    }
+
+    .w-layout-height-spacer {
+        align-self: stretch;
+        flex: 1;
+    }
+
+    .w-layout-content {
+        padding: 32px;
+    }
+
+    .w-layout-github-logo {
+        height: 40px;
+    }
+
+    .w-layout-version {
+        font-size: 12px;
+    }
+}
