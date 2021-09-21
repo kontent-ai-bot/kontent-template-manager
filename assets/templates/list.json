@@ -29,7 +29,7 @@
     },
     {
         "name": "GatsbyJs Photon",
-        "description": "Kentico Kontent & GatsbyJs template based on Photon",
+        "description": "Kontent & GatsbyJs template based on Photon",
         "repoUrl": "https://github.com/Simply007/kontent-template-gatsby-landing-page-photon",
         "exportPackageUrl": "/assets/templates/packages/gatsby-starter-kontent-master.zip",
         "imageUrl": "https://raw.githubusercontent.com/Simply007/kontent-template-gatsby-landing-page-photon/master/template.jpg",
@@ -43,7 +43,7 @@
     },
     {
         "name": "ASP.NET Core MVC",
-        "description": "Kentico Kontent web template built with ASP.NET Core MVC",
+        "description": "Kontent web template built with ASP.NET Core MVC",
         "repoUrl": "https://github.com/Simply007/cloud-template-dotnet-core",
         "exportPackageUrl": "/assets/templates/packages/cloud-template-dotnet-core-master.zip",
         "imageUrl": "https://raw.githubusercontent.com/Simply007/cloud-template-dotnet-core/master/template.jpg",
@@ -71,7 +71,7 @@
     },  
     {
         "name": "Statiq Starter Kontent Lumen",
-        "description": "Lumen is a lightweight starter for creating blogs using Statiq and Kentico Kontent.",
+        "description": "Lumen is a lightweight starter for creating blogs using Statiq and Kontent.",
         "repoUrl": "https://github.com/petrsvihlik/statiq-starter-kontent-lumen",
         "exportPackageUrl": "/assets/templates/packages/statiq-starter-kontent-lumen.zip",
         "imageUrl": "https://i.imgur.com/vLBpkl6.png",
@@ -85,7 +85,7 @@
     },
     {
         "name": "Nerd Cafe",
-        "description": "Kentico Kontent web template built with Svelte and Sapper",
+        "description": "Kontent web template built with Svelte and Sapper",
         "repoUrl": "https://github.com/Simply007/kontent-sample-app-svelte-sapper",
         "exportPackageUrl": "/assets/templates/packages/kontent-sample-app-svelte-sapper-master.zip",
         "imageUrl": "https://raw.githubusercontent.com/Simply007/kontent-sample-app-svelte-sapper/master/template.jpg",
@@ -99,7 +99,7 @@
     },
     {
         "name": "GatsbyJs Lumen",
-        "description": "Kentico Kontent & GatsbyJs template based on Lumen",
+        "description": "Kontent & GatsbyJs template based on Lumen",
         "repoUrl": "https://github.com/Kentico/gatsby-starter-kontent-lumen",
         "exportPackageUrl": "/assets/templates/packages/gatsby-starter-kontent-lumen-master.zip",
         "imageUrl": "https://camo.githubusercontent.com/9e7bbeb7cfd30f29cf4285e8866ae1277d01314f/68747470733a2f2f692e696d6775722e636f6d2f6a56496d7154322e6a7067",
@@ -113,7 +113,7 @@
     },
     {
         "name": "Gatsby default starter",
-        "description": "Kentico Kontent & GatsbyJs simple starter.",
+        "description": "Kontent & GatsbyJs simple starter.",
         "repoUrl": "https://github.com/Kentico/gatsby-starter-kontent",
         "exportPackageUrl": "/assets/templates/packages/gatsby-starter-kontent-master.zip",
         "imageUrl": "https://raw.githubusercontent.com/Kentico/gatsby-starter-kontent/master/template.jpg",
@@ -127,7 +127,7 @@
     },
     {
         "name": "Travel Blog",
-        "description": "A sample travel blog built with VueJS and Kentico Kontent.",
+        "description": "A sample travel blog built with VueJS and Kontent.",
         "repoUrl": "https://github.com/Kentico/kontent-sample-blog-travel-vue",
         "exportPackageUrl": "/assets/templates/packages/kontent-sample-blog-travel-vue-master.zip",
         "imageUrl": "https://raw.githubusercontent.com/Kentico/kontent-sample-blog-travel-vue/master/template.jpg",
@@ -141,7 +141,7 @@
     },
     {
         "name": "GatsbyJs Material UI template",
-        "description": "Showcase of Kentico Kontent Intranet admin UI using Material design and Gatsby.",
+        "description": "Showcase of Kontent Intranet admin UI using Material design and Gatsby.",
         "repoUrl": "https://github.com/Simply007/kontent-sample-app-gatsby-intranet",
         "exportPackageUrl": "/assets/templates/packages/kontent-sample-app-gatsby-intranet-master.zip",
         "imageUrl": "https://raw.githubusercontent.com/Simply007/kontent-sample-app-gatsby-intranet/master/template.jpg",
